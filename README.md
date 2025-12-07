@@ -93,24 +93,6 @@ This repository contains a comprehensive credit-risk analysis project that exami
 - Matplotlib, Seaborn for visualization
 - Jupyter Notebook for analysis
 
-### Project Structure
-```bash
-├── data/
-│ ├── raw/ # Original datasets
-│ └── processed/ # Cleaned datasets
-├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_eda.ipynb
-│ └── 03_hypothesis_testing.ipynb
-├── src/
-│ ├── preprocessing.py
-│ ├── analysis.py
-│ └── visualization.py
-├── reports/
-│ └── Analysis_report_Case_study_45.docx
-└── README.md
-```
-
 ## 📝 License
 This project is for educational and research purposes. Please ensure compliance with data privacy regulations when implementing recommendations.
 
