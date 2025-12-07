@@ -94,6 +94,7 @@ This repository contains a comprehensive credit-risk analysis project that exami
 - Jupyter Notebook for analysis
 
 ### Project Structure
+```bash
 ├── data/
 │ ├── raw/ # Original datasets
 │ └── processed/ # Cleaned datasets
@@ -108,6 +109,7 @@ This repository contains a comprehensive credit-risk analysis project that exami
 ├── reports/
 │ └── Analysis_report_Case_study_45.docx
 └── README.md
+```
 
 ## 📝 License
 This project is for educational and research purposes. Please ensure compliance with data privacy regulations when implementing recommendations.
